@@ -1,6 +1,6 @@
 # Financial Analytics Pipeline
 
-A portfolio project that downloads, preprocesses, and analyzes S&P 500 market data using Python.
+A portfolio project that downloads, preprocesses, and analyses S&P 500 market data using Python.
 
 This project is designed to show a practical data workflow that is relevant for data analyst, data science, and fintech roles. It covers data collection, feature engineering, basic risk analysis, and output generation in a clean project structure.
 
@@ -144,9 +144,9 @@ This project demonstrates several skills that are useful in data and fintech rol
 - working with external financial data APIs
 - building a multi-step data pipeline
 - transforming raw market data into usable features
-- analyzing returns, volatility, and drawdowns
-- computing portfolio-style metrics such as annualized return, annualized volatility, Sharpe ratio, and maximum drawdown
-- organizing a project in a professional repository structure
+- analysing returns, volatility, and drawdowns
+- computing portfolio-style metrics such as annualised return, annualised volatility, Sharpe ratio, and maximum drawdown
+- organising a project in a professional repository structure
 
 ## Next Improvements
 
